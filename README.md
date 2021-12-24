@@ -13,7 +13,6 @@ This project is for html &amp; css practice. We made this for youtube tutorial p
  - [Ayans's Profolio - (react.js project)](https://github.com/ShaifArfan/AYANs-portfolio)
   
 
-### 👍 HAVE FUN 👍
-Thanks, Arfan
+
 
 
